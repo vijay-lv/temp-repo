@@ -4,7 +4,7 @@ const fs=require('fs')
 
 http.createServer((req,res)=>{
 
-    const file=fs.createReadStream('./content/sub/bigfile2.txt','utf8');
+    const file=fs.createReadStream('./content/sub/bigfile.txt','utf8');
 
     file.on('open',()=>{
 
