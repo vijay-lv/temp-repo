@@ -1,0 +1,42 @@
+const rest=[{
+    id:1,
+    name:'vijay',
+    age:29
+},
+{
+    id:2,
+    name:'kumar',
+    age:27
+},
+{
+    id:3,
+name:'bix',
+age:24
+},
+{
+    id:4,
+    name:'ratan',
+    age:60
+},
+{
+    id:5,
+name:'but',
+age:24
+},
+{
+    id:6,
+name:'vital',
+age:24
+},
+{
+    id:7,
+name:'good',
+age:56
+},
+{
+    id:8,
+name:'ram',
+age:24
+}
+]
+module.exports=rest
